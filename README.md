@@ -36,7 +36,7 @@ Install the libraries:
 pip install pandas numpy matplotlib seaborn jupyter
 ```
 
-Then open the notebook in the notebooks folder. The file paths in the notebook point to Kaggle, so change them to the data folder if you run it on your own computer.
+Then open the notebook **EDA_IPL_Cricket_Match_Analysis**. The notebook was made on Kaggle, so the data files are loaded from a Kaggle path. To run it on your own computer, download matches.csv and deliveries.csv from the IPL Complete Dataset on Kaggle and change the two file paths in the first code cell.
 
 ## Tools
 
